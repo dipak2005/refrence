@@ -1,0 +1,1 @@
+{"firestore":{"rules":"y","indexes":"y"},"flutter":{"platforms":{"android":{"default":{"projectId":"shopsyapp-3a5b9","appId":"1:456222068260:android:0760d5d09751d224d112b1","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"shopsyapp-3a5b9","configurations":{"android":"1:456222068260:android:0760d5d09751d224d112b1"}}}}}}
